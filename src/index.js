@@ -7,7 +7,6 @@ var angle3 = document.getElementById("angle3");
 var result = document.getElementById("result");
 
 btn.addEventListener("click", () => {
-  s;
   if (
     parseInt(angle1.value) + parseInt(angle2.value) + parseInt(angle3.value) ===
     180
